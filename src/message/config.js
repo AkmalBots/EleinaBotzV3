@@ -15,13 +15,13 @@ global.mode = false
 global.autodltt = false
 global.counttroli = 555999777
 global.typemenu = 'document'
-global.owner = ['6285731947500'] //Masukin nomor mu
-global.ownernomer = "6285731947500" //Masukin nomor mu
-global.premium = ['6285731947500'] //Masukin nomor mu
-global.ownername = 'Okta' //Masukin nama kamu
-global.botname = 'EleinaBotz' //Masukin nama bot kamu
-global.fakename = 'Okta' //Masukin nama mu
-global.fakebody = 'Hubungi jika ingin sewabot' // Monggo kalau mau ganti
+global.owner = ['6281269734000'] //Masukin nomor mu
+global.ownernomer = "6281269734000" //Masukin nomor mu
+global.premium = ['6281269734000'] //Masukin nomor mu
+global.ownername = 'AkmalCreators' //Masukin nama kamu
+global.botname = 'EleinaBot' //Masukin nama bot kamu
+global.fakename = 'Bot By JANDA44' //Masukin nama mu
+global.fakebody = 'Tiktok : janda444__' // Monggo kalau mau ganti
 global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
 global.author = 'Okta' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
@@ -30,15 +30,15 @@ global.jumhal = '100000000000000' //Gak usah di ubah
 global.jumlah = '1000000000' //Gak usah di ubah
 global.prefa = ['','!','.','#','&'] //Gak usah di ubah
 global.scmu = 'Sc?\nJoin Gc' //Monggo kalau mau ubah
-global.githubmu = 'https://github.com/ChataOfc' //Isi nama github mu
-global.ytmu = 'https://youtube.com/@chataofc-' //Gak usah di ubah
-global.ytvmu = 'https://youtube.com/@chataofc-' //Gak usah di ubah
-global.linkbebas = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk' //Terserah mau luh isi web apa mau github atau link group juga bisa
-global.imglink = 'https://telegra.ph/file/f8af7e61754ab26984fbc.jpg' // isi dengan image link/foto link
+global.githubmu = 'https://github.com/AkmalBots' //Isi nama github mu
+global.ytmu = 'https://youtube.com/@jandapreser444' //Gak usah di ubah
+global.ytvmu = 'https://youtube.com/@jandapreset444' //Gak usah di ubah
+global.linkbebas = 'xnxx.com/search/ceramah' //Terserah mau luh isi web apa mau github atau link group juga bisa
+global.imglink = 'https://telegra.ph/file/16d458e43b1c272485ad0.png' // isi dengan image link/foto link
 global.teksqr = {
-gopay: '_Ini kak Qr Gopay nya_',
-dana: '_Ini kak Qr Dana nya_',
-ovo: '_Ini kak Qr Ovo nya_',
+gopay: '087865346175',
+dana: '087865346175',
+ovo: '-',
 }
 global.mess = {
     success: '✅Done',
